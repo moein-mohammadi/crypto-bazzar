@@ -4,3 +4,5 @@
 *.c linguist-language=None
 *.swift linguist-language=None
 *.html linguist-language=None
+*.cmake linguist-language=None
+*.kotlin linguist-language=None
