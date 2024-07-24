@@ -1,2 +1,2 @@
-*.dart linguist-language=dart
-*.dart linguist-vendored=true
+*.cpp linguist-language=cpp
+*.cmake linguist-detectable=false
