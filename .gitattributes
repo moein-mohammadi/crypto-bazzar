@@ -1,2 +1,6 @@
 *.dart linguist-language=Dart
 *.cpp linguist-language=None
+*.h linguist-language=None
+*.c linguist-language=None
+*.swift linguist-language=None
+*.html linguist-language=None
